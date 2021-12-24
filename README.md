@@ -4,3 +4,10 @@ The application offers a simple user interface that receives text in a variety o
 
 ### Deployed URL
 http://www-audiopost01.s3-website.us-east-2.amazonaws.com/
+
+### Application architecture
+1. Register and Login Functionality:
+![alt text](https://github.com/JANVI062/GoGo-Audio/blob/master/images/Posts.png)
+
+2. New Post(creating new audio files) and Get Post(retrieving past audio files from database) functionality:
+![alt text](https://github.com/JANVI062/GoGo-Audio/blob/master/images/Posts.png)
