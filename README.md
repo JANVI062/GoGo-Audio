@@ -1,9 +1,12 @@
 # GoGo-Audio: Text to Audio Converter
-GoGoAudio is a serverless application that converts text to speech using a natural-sounding speech synthesizer. 
+It is a cloud-based serverless application that converts text to speech using a natural-sounding speech synthesizer. 
 The application offers a simple user interface that receives text in a variety of languages and converts it to audio files that can be played on a web browser.
 
-### Deployed URL :
+### Deployed URL (using AWS) :
 http://www-audiopost01.s3-website.us-east-2.amazonaws.com/
+
+### AWS Services used: 
+API Gateway, Dynamo DB, Lambda, SNS, S3 Bucket, Amazon Polly, IAM Roles
 
 ## Application architecture
 
